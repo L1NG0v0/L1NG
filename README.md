@@ -65,19 +65,15 @@
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
-<!--
-<a href="https://shivammalpani.netlify.app/"><img alt="Website" src="https://img.shields.io/badge/shivammalpani.netlify.app-black?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/shivam-malpani-47a379198/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Shivam%20Malpani-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/i__disbalance/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-i__disbalance-black?style=flat-square&logo=instagram"></a>
--->
 
   [![Gmail Badge](https://img.shields.io/badge/383417532@qq.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:383417532@qq.com)](mailto:383417532@qq.com)
-  <!--
-  ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=eallion.eallion)
-  ![](https://komarev.com/ghpvc/?username=eallion&color=0366d6)
-  ![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=shivam0110.shivam0110)   
-  -->
-  <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30">
 
+  <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30">
+<div align="center"> <img src="https://readme-typing-svg.herokuapp.com/?lines=非淡泊无以明志,非宁静无以致远;书山有路勤为径,学海无涯苦作舟。;学而不思则罔,思而不学则殆;&center=true&font=Roboto&size=27" /></div>
 
 <hr>
+
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=L1NG0v0&show_icons=true&theme=tokyonight" /> </div>
+
+
+
