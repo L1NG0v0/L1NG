@@ -12,9 +12,9 @@
 
 - 🌱 &nbsp; Learning about AI, blockchain, web3.0.
 
-- ✍️ &nbsp; Contribute to open source systems and discover security vulnerabilities
+- ✍️ &nbsp; Contribute to open source systems and discover security vulnerabilities.
 
-- 🎮 &nbsp; I like to play video games
+- 🎮 &nbsp; I like to play video games.
 
 
 
