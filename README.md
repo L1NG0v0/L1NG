@@ -12,7 +12,7 @@
 
 - 🌱 &nbsp; Learning about AI, blockchain, web3.0.
 
-- ✍️ &nbsp; I enjoy reading and exercising in my leisure time.
+- ✍️ &nbsp; Contribute to open source systems and discover security vulnerabilities
 
 - 🎮 &nbsp; I like to play video games
 
