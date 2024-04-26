@@ -28,6 +28,13 @@
 <h3> ✨ My achievements </h3>
 
 [CVE-2024-32467 Vulnerability Number Owner](https://github.com/metersphere/metersphere/security/advisories/GHSA-7499-q88f-mxqp)
+
+
+<h3> 📚 My article </h3>
+
+[记一次安服仔薅洞实战（lucky）](https://forum.butian.net/share/404)<br>
+[又记一次安服仔薅洞实战-未授权之发现postgresql注入](https://forum.butian.net/share/1344)<br>
+[双记一次安服仔薅洞实战-前端JS的相爱相杀](https://forum.butian.net/share/1441)<br>
 <!--
 
 - 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | ReactJS
